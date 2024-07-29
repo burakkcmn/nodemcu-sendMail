@@ -30,7 +30,7 @@ This project demonstrates how to send emails using an ESP32 or ESP8266 with the 
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/ESP8266-DC-Motor-Control.git
+git clone https://github.com/burakkcmn/nodemcu-sendMail.git
 cd ESP8266-DC-Motor-Control
 ```
 2. Open the project in Platformio.
